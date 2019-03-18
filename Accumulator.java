@@ -46,7 +46,7 @@ public class Accumulator {
 
             /* 5.  Stumbling block 1
                However, use of the operator alone is insufficient,
-               because the compiler
+               because the JVM
                objects to the following code that adds use of
                the operator to the code from Stumbling block 0:
              */
